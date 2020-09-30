@@ -1,0 +1,885 @@
+BITCOIN INVESTMENT THESIS
+AN ASPIRATIONAL STORE OF VALUE
+JULY 2020, RIA BHUTORIA, DIRECTOR OF RESEARCH
+
+BITCOIN INVESTMENT THESIS
+
+2
+
+INTRODUCTION
+
+At Fidelity Digital Assets, we have conversations with investors at distinct stages in their digital asset
+journey – investors who are proactively working on their investment thesis, seeking validation of their
+thesis or have yet to embark on the process. In
+response to the range of investors in different
+stages, we are compiling a series of reports
+
+“Bitcoin is the most significant
+
+to examine the perspectives that are driving
+
+innovation in finance since the
+
+interest and investment in bitcoin today and
+
+Medicis invented double-entry
+
+those that may evolve and gain traction in the
+
+accounting.”
+
+future. In doing so, we hope to help investors
+
+BRIAN KELLY, BKCM
+
+establish a comprehensive evidence-based
+thesis and understanding, especially as
+bitcoin becomes increasingly integrated with
+traditional markets and portfolios.
+
+Bitcoin is many things to many people – why people choose to own hold bitcoin depends on their
+circumstances and views of what bitcoin is today and what it could become in the futurei. These views
+have been the subject of misunderstanding, confusion and debate. Historically, such debates have
+revolved around whether bitcoin, the native asset, is a store of value, medium of exchange, alternative
+asset, all of the above, or none of the above. Additionally, it is still undetermined whether the
+underlying blockchain is best used to facilitate wholesale clearing and settlement, consumer payments
+or the anchoring and timestamping of arbitrary data.
+The truth is, as the ecosystem matures, Bitcoin may simultaneously serve many functions – either
+
+BITCOIN INVESTMENT THESIS
+
+foundationally or through incremental layers. One of the beautiful things about Bitcoin is that its
+success is not predicated on serving a singular purpose.
+In this piece, we will focus on the view that Bitcoin is an aspirational store of value. We explore the
+inherent characteristics that position Bitcoin to fulfill this role in the future, consider whether it is being
+used in this way today, and discuss factors that may drive greater demand for such utility.
+In conducting research for this report, we interviewed a few of the top investors and thinkers in the
+industry and incorporated their investment perspectives. A special thank you to Brian Kelly, Brian Estes,
+John Vincent, Benson Durham, Roberto Perli, Dan Morehead, John Pfeffer and Nic Carter for sharing
+their thoughts on the topic.
+
+KEY HIGHLIGHTS
+Many investors consider bitcoin to be an aspirational store of value in that it has the properties of a
+store of value but has yet to be widely accepted as such.
+The silver lining of bitcoin’s volatility, at least in the early days, is that it is a catalyst that attracts
+attention, development and innovation.
+Scarcity is the key characteristic cited in reference to a good store of value as it is essential
+for protecting against the depreciation of real value in the long run. One of bitcoin’s most novel
+innovations is its unforgeable digital scarcity.
+Bitcoin’s scarcity was coded into the protocol when it was created. The independence of the
+monetary policy is enforced by the decentralized network of computers supporting the network and
+proof-of-work.
+The unknown consequences of record low interest rates, unprecedented levels of global monetary
+and fiscal stimulus and deglobalization are all adding fuel to the fire of awareness and adoption.
+Longer-term drivers include “slow and steady” inflation and the great wealth transfer to a
+millennial demographic that has a favorable opinion on digital assets.
+
+3
+
+BITCOIN INVESTMENT THESIS
+
+4
+
+AN ASPIRATIONAL STORE OF VALUE
+Bitcoin can be described as an aspirational store of value – creating value as it matures into a store
+of value. An analogy is that investing in bitcoin today is akin to investing in Facebook when it had 50
+million users with the potential to grow to the more than 2 billion users it has today. This is driven by
+the idea that bitcoin offers asymmetric upside. If
+bitcoin is widely adopted by retail and institutional
+investors as a store of value, the upside may be
+substantial relative to the initial upfront investment.
+Today, bitcoin is relatively nascent and has narrow
+base demand compared to a global store of wealth
+such as gold. Stakeholder perception of its value and
+potential is also still evolving. However, the rationale
+of investors for establishing exposure now is that it
+
+“It might make sense just to get
+some in case it catches on. If
+enough people think the same
+way, that becomes a self-fulfilling
+prophecy.”
+SATOSHI NAKAMOTO
+
+will be a much larger market if it is widely used as a
+store of value in the future.
+One of the key arguments against bitcoin as a store of value today is its volatility. Bitcoin holders
+counter with the idea that the trajectory of a new asset from negligible awareness and adoption to a
+global store of value is unlikely to be linear. A different perspective is that many participants initially
+learn about bitcoin because of its volatility. As new participants conduct further study, perceptions
+often shift to focus less on short-term performance and more on the long-term value proposition.
+Upward volatility also attracts investment, development and innovation. Cycles in the industry start
+with an increase in the price of digital assets like bitcoin, leading to new attention through discussion
+in news and social media, leading to an inflow of talent culminating in new products, projects and
+infrastructure and a maturation of the industry relative to the previous cycle.
+
+BITCOIN INVESTMENT THESIS
+
+5
+
+Bitcoin’s volatility may always remain elevated relative to traditional assets as volatility is a side effect
+of bitcoin’s perfectly inelastic supply and of a
+borderless, relatively intervention-free market. Over
+
+“Because bitcoin is a liquid
+market open 24 hours a day, 7
+days a week, when people need
+liquidity, bitcoin is there to clear
+those trades. It clears properly
+
+time, volatility should continue to decline relative to
+current levels as narratives converge, base demand
+rises, activity on institutional platforms expands and
+sophisticated investment trading and investment
+products emerge.
+
+and offers a pure market all the
+
+Bitcoin’s potential as a store of value can be
+
+time but is also accompanied by
+
+framed by comparing it to other investable assets
+
+higher volatility. You have to be
+
+that investors use to store value, as shown in the
+
+willing to pay that price to own
+
+table below. To achieve considerable status, more
+investors need to become knowledgeable about
+
+such an asset.”
+BRIAN ESTES, OFF THE CHAIN CAPITAL
+
+bitcoin’s inherent properties and determine that the
+benefits of storing at least some value in bitcoin are
+superior to the opportunity costs of storing value
+in a different medium. In the sections below, we
+
+discuss the leading factors that investors are considering when making an investment in bitcoin.
+
+Asset
+
+Market value
+
+Bitcoin Share
+
+Bitcoin
+
+$172 billion
+
+–––
+
+Facebook
+
+$684 billion
+
+25.1%
+
+Gold
+
+$11 trillion
+
+1.6%
+
+Stock Markets
+
+$89 trillion
+
+0.2%
+
+Global Debt
+
+$253 trillion
+
+0.1%
+
+Global Real Estate
+
+$281 trillion
+
+0.1%
+
+­
+
+­
+
+Source: Messari (Jul 2020), Yahoo Finance (Jul 2020), Visual Capitalist (May 2020)
+
+BITCOIN INVESTMENT THESIS
+
+6
+
+WHAT MAKES BITCOIN APPEALING AS A POTENTIAL
+STORE OF VALUE
+Bitcoin’s digital scarcity
+A robust store of value asset retains purchasing power over long periods of time. An emerging store
+of value grows purchasing power until it stabilizes. The key characteristics that are cited in reference
+to good stores of value are scarcity, portability, durability and divisibility. The most important of these
+attributes is arguably scarcity, which is essential for protecting against the depreciation of real value in
+the long run. Scarcity means there is a limited quantity of the asset in question, more cannot be easily
+created, and it is impossible to counterfeit.
+One of bitcoin’s most novel innovations is
+its unforgeable digital scarcity. Investors
+believe this property is foundational in
+understanding and appreciating bitcoin.
+Before bitcoin, multiple innovators made
+important contributions in the quest to achieve
+digital scarcity, but were unsuccessful in
+
+“Most people in the world don’t yet
+see bitcoin as digital gold. As soon as
+people see it in a different way, the
+price will adjust”
+JOHN PFEFFER, PFEFFER CAPITAL LP
+
+enforcing it. Computer data has always been
+ephemeral and shareable, at least as far back
+as Larry Tesler’s invention of copy, cut and
+paste functionality in the early 1970s. In more modern times, copying and sharing files has become a
+ubiquitous and integral feature of the internet.
+Despite efforts at limiting the sharing of certain types of files (e.g. the development of Digital Rights
+Management (DRM) technology to track files and make them difficult to copy), creating unforgeable
+digital scarcity had remained elusive until 2009 when Bitcoin went live. In inventing Bitcoin, Satoshi
+Nakamoto borrowed concepts from prior efforts but also addressed previously unsolved problems,
+such as the double spending problem, using a clever combination of computing, cryptography, game
+
+BITCOIN INVESTMENT THESIS
+
+7
+
+theory and incentives to establish a decentralized protocol that enforces a fixed issuance schedule.
+The bitcoin supply is perfectly inelastic and is not susceptible to supply shocks. Supply does not
+respond to changes in production capacity (i.e. greater hash power) in response to heightened
+demand driving prices higher. Even gold, which has been used as a store of value for millennia, is not
+immune to supply shocks. While the ability for increased production in response to an increase in
+demand is limited, gold is not perfectly inelastic.
+Rising prices both motivate existing bitcoin mining operations to become more efficient and attract
+new mining operations, but the increased hash power supporting the network cannot affect supply.
+Bitcoin accomplishes this through its difficulty adjustment. The hash rate supporting bitcoin rises
+as miners join
+the network or as
+
+“You don’t need to be a PhD to understand that
+
+existing miners
+
+the number of dollars just doubled whereas the
+
+upgrade their mining
+
+BTC supply just halved.”
+JOHN VINCENT, WAKEM CAPITAL MANAGEMENT
+
+hardware to more
+efficient versions.
+Simultaneously, the
+difficulty of mining
+also rises (or falls) to
+
+ensure that block production occurs every ten minutes, on average. The adjustment mathematically
+regulates the supply of bitcoin.
+Bitcoin is released approximately every ten minutes via block rewards paid to miners. This block
+reward halves every 210,000 blocks until the amount of bitcoin in circulation reaches 21 million. This
+fixed total supply is hard coded into the protocol and cannot be changedii. The third halving occurred
+in May 2020, resulting in a 50% decline in the block reward from 12.5 to 6.25 and a reduction in the
+rate of annual issuance from over 3.5% to under 2% - an interesting juxtaposition at a time when
+central banks globally started to unleash unprecedented and unlimited levels of monetary stimulus,
+which we expand on below.
+
+BITCOIN INVESTMENT THESIS
+
+8
+
+25M
+
+100%
+
+20M
+
+80%
+
+15M
+
+60%
+
+10M
+
+40%
+
+5M
+
+20%
+0%
+
+Annual Issuance Rate
+
+0
+
+Total Supply
+
+Source: Alex Thorn (Avon Ventures), May 2020
+
+The stock-to-flow ratio (stock divided by flow) is a metric commonly used to quantify the scarcity, or
+hardness, of commodities. Stock is the existing supply of a commodity less the portion of supply that
+has been consumed or destroyed. Flow is the annual incremental production of new units. Together,
+the stock-to-flow ratio measures how many years of production are required to achieve the existing
+level of stock.
+Commodities with a stock that is difficult to double due to a low rate of production relative to existing
+supply have historically served as superior stores of value. Such commodities are largely used for
+investment purposes, and occasionally industrial uses. On the other hand, consumable commodities
+that are susceptible to large increases in supply, are less effective in storing value.
+In the Bitcoin Standard, Saifedean Ammous adapted stock-to-flow to compare bitcoin to commodities
+used for investment and consumption and the use of the metric has since expanded and even given
+rise to models based on the ratio. Gold, the most resilient store of value through the ages, has the
+highest stock-to-flow ratio, followed by bitcoin (today) and silver. Following the recent halving (May
+2020), the gap between the gold and bitcoin ratio compressed. Bitcoin’s stock-to-flow will eclipse that
+of gold following the next halving (2024).
+
+Total Supply
+
+120%
+
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+2041
+2042
+2043
+2044
+2045
+2046
+2047
+2048
+2049
+2050
+2051
+
+Annualized Expansion Rate
+
+BITCOIN ANNUALIZED ISSUANCE RATE & TOTAL SUPPLY
+
+BITCOIN INVESTMENT THESIS
+
+Source: PlanB (March 2019), Coin Metrics (April 2020)
+Note: A Goldman Sachs report from 2015 estimated that the last of gold from known
+reserves will be mined by ~2035 and the last of platinum will be mined by ~2055. The last
+bitcoin will be mined around 2140iii.
+
+An anonymous personality, PlanB, also developed a valuation model based on the stock-to-flow
+ratio. Proponents of the stock-to-flow model suggest that there is a statistically significant relationship
+between bitcoin’s market value and its scarcity as measured by the ratio. Critics of the model contend
+that the model does not capture demand, a more important driver of market value. While the
+significance of the model is out of the scope of this piece, we explore why demand for a scarce digital
+asset could riseiv.
+
+Decentralized checks and balances
+Bitcoin’s monetary policy was established when it was created. Its credibility is enforced in part by
+decentralization and proof-of-work mining. Bitcoin has a leaderless network of decentralized full
+nodes (computers running bitcoin software), in which every node stores the ledger of transactions
+and performs transaction verification independently, checking that rules are being followed. Because
+of this redundancy, there is no central point of failure. Full nodes that verify transactions are distinct
+from miners who expend energy to process transactions and mint bitcoin. Unlike mining, transaction
+verification does not require significant resources in the form of hardware or electricity. Thus, any
+
+9
+
+BITCOIN INVESTMENT THESIS
+
+10
+
+computer can join the distributed network to
+store and verify bitcoin transactions. Today tens
+
+“The nature of Bitcoin is such that
+
+of thousands of nodes perform this function.
+
+once version 0.1 was released, the
+
+The two main types of transactions include
+
+core design was set in stone for the
+
+coinbase transactions that programmatically
+issue new bitcoins per the supply schedule
+
+rest of its lifetime.”
+SATOSHI NAKAMOTO
+
+and peer-to-peer payment or settlement
+transactions between users of the network.
+A transaction that does not follow consensus
+rules (e.g. attempts to create new coins or attempts to double spend previously spent bitcoin) will be
+rejected by the decentralized network of computers.
+In addition to preventing transactions that don’t follow consensus rules, the level of decentralization
+that exists in the bitcoin network protects core properties such as the 21 million fixed supply by making
+it virtually impossible to change. No central party has sole discretion over bitcoin’s monetary policy.
+Rather, such a change would require significant social coordination among stakeholders (e.g. users,
+miners and those running full nodes). Most stakeholders believe bitcoin has value because of its digital
+scarcity, resulting in negligible support for such a change.
+
+Proof-of-work
+Proof-of-work is an important design element that enforces bitcoin’s fixed supply by making
+transactions irreversible. Proof-of-work provides evidence that a significant amount of computational
+work has taken place, though verifying that work took place is quick and easy relative to the effort
+and time it took to conduct the work. In order to create a block of transactions, miners perform
+hash operations over and over again to find a solution to a computationally intensive cryptographic
+problem, in a guess and check process known as proof-of-work. The process is computationally
+intensive in that it requires the use of specialized hardware (with a high fixed upfront cost) and
+electricity (an ongoing operating cost). These real-world sunk costs and the block reward that miners
+
+BITCOIN INVESTMENT THESIS
+
+11
+
+are awarded for processing transactions serve as the incentive for miners to perform transaction
+processing and do so honestly.
+Additionally, proofof-work makes it
+
+“One of the main value propositions for a store
+of value is in being something that doesn’t
+change qualitatively (aka immutability).”
+JIMMY SONG, BITCOIN EDUCATOR
+
+v
+
+prohibitively difficult
+and expensive for
+a malicious actor to
+rewrite or reverse
+transactions,
+making transactions
+immutable, in effect.
+The immutability of a
+
+block of transactions rises as the number of confirmations increases – in other words, as the number
+of subsequent blocks increases. A block that is buried under one hundred subsequent blocks is more
+immutable than a block that is buried under ten blocks because undoing it would require reversing
+one hundred blocks worth of transactions versus just ten. As a refresher, miners group transactions
+together to create blocks. A transaction is akin to an entry in a database and a block is akin to a page
+of entries in the database. Each block refers to the previous block such that blocks are linked together
+to form a chain. Thus, it is not possible to rewrite a block that is buried under one hundred subsequent
+blocks without rewriting each of those blocks.
+Bitcoin’s monetary policy was established at the outset. Stakeholders have faith in the policy because
+the network is decentralized. No centralized party can make changes to core properties and force
+those changes upon stakeholders. Transactions are immutable, making it computationally and
+economically impractical to attempt to undo transactions and rewrite the ledger.
+
+BITCOIN INVESTMENT THESIS
+
+12
+
+DEMAND DRIVERS
+Investors believe that the next wave of awareness and adoption could be driven by external factors
+such as unprecedented levels of intervention by central banks and governments, record low interest
+rates, increasing fiat money supply, deglobalization and the potential for ensuing inflation, all of which
+have been accelerated by the pandemic and economic shutdown.
+Longer-term tailwinds that could fuel adoption include the use of bitcoin to preserve wealth amidst
+“slow and steady” inflation and the looming generational wealth transfer to millennials, who view
+bitcoin more favorably than other demographics.
+
+NEAR- TO MEDIUM- TERM CATALYST
+Monetary and fiscal stimulus
+To offset demand destruction resulting from the global shut down in response to the pandemic, central
+banks and governments have responded with never-before-seen levels of monetary and fiscal stimulus
+
+“The FOMC was very worried about disinflation when they cut down to 1% in the early 2000s.
+Some even argue that this policy stance lead to reach-for-yield (RFY) even then, primarily
+through the housing bubble but also pretty buoyant risky asset prices, etc.
+Many commentators worried about QE-> debasement -> inflation. Yet as we now know,
+banks did not loan out the huge increase in reserves created by central bank asset purchases
+(that’s how money gets created in our fractional reserve system of course), amid weak
+business/household loan demand, consistent in turn with the anemic recovery that
+seems to follow asset price busts. There are [also] some structural forces
+nudging CPI inflation that one could list.”
+J. BENSON DURHAM AND ROBERTO PERLI, CORNERSTONE MACRO
+
+BITCOIN INVESTMENT THESIS
+
+13
+
+to manage the impact of an economic downturn, stimulate the economy and placate markets. As many
+as 285 stimulus measures have been announced in a matter of eight months including zero or near
+zero interest rates, increasing money supply through unprecedented levels of quantitative easing and a
+range of lending facilities.
+Even before the world entered the current health and economic crises, investors were forecasting the
+use of more direct forms of liquidity growth by central banks and governments to spur inflation that
+has been stubbornly low for a variety of reasons.
+Central banks and governments
+have implemented expansionary
+
+“In no small way, unconventional policy
+measures are supposed to generate some
+
+policies to counteract the
+deflationary pressures created by
+
+asset-price inflation by lowering risk aversion
+
+global lockdowns. Time will tell
+
+and ultimately increasing the flow of credit to
+
+whether and how quickly the gradual
+
+households and business.”
+
+re-opening of the global economy
+
+J. BENSON DURHAM AND ROBERTO PERLI, CORNERSTONE MACRO
+
+will spur consumer spending, how
+central banks and governments
+will react and what the impact on
+consumer price inflation will be.
+
+The impact on demand for fixed supply assets is less clear if inflation or expectations of inflation fall.
+However, the increase in money supply may translate to an increase in the price of risky or scarce
+assets regardless.
+If the combination of policy decisions succeeds in offsetting deflationary pressures and creates
+inflation, or if inflation stays suppressed, but nominal yields stay low or go lower, investors may turn
+to “an asset that maintains its real value – an asset that cannot be printed”vi to recalibrate a diversified
+portfolio. Traditionally, in these situations, investors have turned to fixed supply assets such as real
+estate, dividend yielding stocks, and precious metals. This time around, investors could turn to a new
+
+BITCOIN INVESTMENT THESIS
+
+14
+
+type of fixed supply asset as protection
+against potential inflation or low interest
+rates, but with significant growth potential –
+bitcoin.
+
+“It’s really asymmetric. Bitcoin is a
+once in a generation type trade.”
+DAN MOREHEAD, PANTERA CAPITAL
+
+Deglobalization
+Globalization is one of the structural forces
+that has historically kept the price of goods
+and services low in the face of inflationary pressures. While globalization had been slowing following
+the financial crisis (based on trade flows, globalization peaked in 2008), pandemic induced restrictions
+and lockdowns have exposed the risk of reliance on global supply chains and have added momentum
+to at least partial deglobalization. According to the EU’s internal market commissioner, Thierry Breton,
+“The question posed by this crisis is that we may have gone too far in globalization.”vii The World
+Trade Organization has forecasted a 13%
+to 32% decline in world trade in 2020 due
+
+“In a world that craves new safe
+
+to the pandemic.viiI Deliberate actions by
+
+assets, there may be a growing
+
+governments and policymakers to restrict
+
+role for bitcoin.”
+
+trade and reduce dependence on global
+
+PAUL TUDOR JONES, LORENZO GIORGIANNI,
+TUDOR INVESTMENTSix
+
+supply chains could further accelerate
+deglobalization, placing incremental upward
+pressure on the cost and price of goods
+and services, lifting some of the downward
+pressure on inflation from globalization.
+
+Current interest in bitcoin’s store of value properties
+Tudor Investment Corporation’s decision to allocate to bitcoin in the Tudor BVI fund is evidence
+that unprecedented levels of monetary growth is driving institutional interest in bitcoin’s store of
+value properties. Paul Tudor Jones, founder and Chief Investment Officer, and Lorenzo Giorgianni,
+
+BITCOIN INVESTMENT THESIS
+
+15
+
+Head of Global Research articulated the rationale for investing in bitcoin in their May 2020 investor
+letter, “The Great Monetary Inflation.” The Tudor Investments team scored financial assets, fiat cash,
+gold and bitcoin based on four characteristics that define store of value assets – purchasing power,
+trustworthiness, liquidity, portability. Bitcoin’s score was 60% of the score of financial assets, but
+1/1200th of the market cap of financial assets and it was 66% of the score of gold, but 1/60th of the
+market cap, concluding, “Something appears to be wrong here and my guess is that it’s the price of
+Bitcoin.” While many have
+expressed the same reasoning,
+
+“You quietly over some period of time
+
+this was seen as a watershed
+
+accumulate a position and then just never look
+
+moment, given the thesis
+
+at it again and hope that that insurance under
+
+and investment was from a
+
+the mattress never has to come due. But, if it
+
+traditional hedge fund manager/
+
+does, it will protect you.”
+CHAMATH PALIHAPITIYAx
+
+legendary macro investor (Paul
+Tudor Jones) and former Deputy
+Director of the Strategy, Policy
+and Review Department at the
+IMF (Lorenzo Giorgianni)ix.
+
+LONGER-TERM CATALYSTS
+Long-term wealth preservation
+A store of value asset isn’t important only in high inflation environments. Even “low and steady”
+inflation erodes the purchasing power of the most stable fiat currencies over a long enough time
+period. This drives people to invest in financial assets in order to preserve or grow their wealth over
+longer timeframes. Proponents of the narrative that bitcoin is a potential store of value contend that
+base demand will grow as more people recognize it as a long-term wealth preservation tool.
+
+BITCOIN INVESTMENT THESIS
+
+16
+
+PURCHASING POWER OF THE U.S. DOLLAR
+1200
+1000
+800
+600
+400
+200
+
+2018
+
+2013
+
+2008
+
+2003
+
+1998
+
+1993
+
+1988
+
+1983
+
+1978
+
+1973
+
+1968
+
+1963
+
+1958
+
+1953
+
+1948
+
+1943
+
+1938
+
+1933
+
+1928
+
+1923
+
+1918
+
+1913
+
+0
+
+Source: St. Louis Fed, April 2020
+
+Great wealth transfer
+A report released by Coldwell Banker in October 2019 shared data around the transfer of $68 trillion in
+wealth to millennials, estimated to be one of the most substantial transfers of wealth historically. The
+study also found that there are almost 620,000 millennial millionaires in the United States, about 2%
+of the population of millionaires in the U.S. The millennial demographic (those born between 1981 to
+1996) is more open to novel, digitally native alternatives versus legacy products and services and more
+comfortable holding new types of investments.
+This open-mindedness has been shaped in part by the 2008 financial crisis. Entering the workforce
+at such an inopportune time instilled a level of skepticism towards the traditional banking system.
+According to WEF’s 2017 Global Shapers Survey, 45% of the 30,000 millennials surveyed said they
+disagree with the statement that they trust banks to be fair and honest.xiii Edelman’s October 2018
+survey of affluent millennials (those aged 24-38 with $50K in investable assets or $100K in individual or
+joint income) found that 77% of affluent millennials believe “the whole financial system is designed to
+favor the rich and powerful” and that “it’s just a matter of time before the bad behavior of the financial
+industry leads us into another global financial crisis.”xiv
+
+BITCOIN INVESTMENT THESIS
+
+17
+
+There is also evidence that the millennial demographic’s affinity to hold bitcoin relative to legacy stores
+of value such as gold is high. According to Nate Geraci, president of investment advisor, ETF Store,
+anecdotally, about 90% of their millennial clients said they prefer bitcoin to goldxv - “It’s a landslide.”
+According to a November 2019 Millennials and the Future of Money report by Edelman, 63% of “crypto
+users” said crypto is a better investment than gold in a volatile economy.xvi
+
+CONCLUSION
+Bitcoin’s inherent properties have given rise to the perspective that bitcoin has the potential to be a
+store of value, with complementary and interdependent components – the decentralized settlement
+network (Bitcoin) and its digitally scarce native asset (bitcoin). Equally important is the consideration
+of demand for bitcoin’s unique features – there is no long-term value to create or store if there is no
+sustained demand for these properties.
+External forces that are accelerating
+interest and investment in bitcoin include
+unprecedented levels and exotic forms
+
+“Bitcoin has enough critical mass
+that it will be around for the long
+haul.”
+
+of monetary and fiscal stimulus globally
+with unknown consequences. This is
+
+NIC CARTER OF CASTLE ISLAND VENTURES AND
+
+exacerbating the concerns that Bitcoin was
+
+COIN METRICS
+
+designed to address and is leading more
+investors and users towards bitcoin as an
+“insurance policy” that may provide protection against the unknown consequences. Simultaneously,
+the massive transfer of wealth from the older generation to a younger demographic is a more gradual
+but important long-term tailwind, as younger people view bitcoin more favorably. This is an important
+catalyst for bitcoin adoption as they inherit and grow their wealth.
+While bitcoin is not guaranteed to succeed as a store of value, should sustainable long-term demand
+for the use case not materialize, the tailwinds mentioned above should drive incremental demand
+
+BITCOIN INVESTMENT THESIS
+
+for a novel asset with unique properties. Additionally, as we will examine in future parts in our bitcoin
+investment thesis series, Bitcoin’s strength is that it has properties that allow it to serve multiple
+functions, further hardening the likelihood of its success as measured by growth in value.
+
+This content was created by Fidelity Digital Asset Services, LLC, a New York State–chartered, limited liability trust company
+(NMLS ID 1773897). All rights reserved.
+Fidelity Digital Asset Services, LLC, does not provide tax, legal, investment, or accounting advice. This material is not intended
+to provide, and should not be relied on for, tax, legal, investment or accounting advice. Tax laws and regulations are complex
+and subject to change. You should consult your own tax, legal, investment and accounting advisors before engaging in any
+transaction. Digital assets are speculative and highly volatile, can become illiquid at any time, and are for investors with a high
+risk tolerance. Investors in digital assets could lose the entire value of their investment.
+Fidelity Digital Assets and the Fidelity Digital Assets logo are service marks of FMR LLC.
+© 2020 FMR LLC. All rights reserved.
+937894.1.0
+
+18
+
+BITCOIN INVESTMENT THESIS
+
+i
+
+We refer to the Bitcoin network, protocol and system as a whole as “Bitcoin.” We refer to the system’s unit of account, BTC, as
+“bitcoin.”
+
+ii
+
+Without overwhelming support from node operators, who have been loathe to provide it.
+
+iii
+
+Myra P. Saefong. “In 20 year, the world may run out of mineable gold.” March 2015. https://www.marketwatch.com/story/in20-years-the-world-may-run-out-of-minable-gold-2015-03-30
+
+iv
+
+PlanB. Modeling Bitcoin Value with Scarcity.” March 2019. https://medium.com/@100trillionUSD/modeling-bitcoins-valuewith-scarcity-91fa0fc03e25
+
+v
+
+Jimmy Song. “Why Bitcoin is Different.” April 2018. https://medium.com/@jimmysong/why-bitcoin-is-different-e17b813fd947
+
+vi
+
+Rick Rieder. “The monetary policy endgame.” September 2019. https://www.blackrockblog.com/2019/09/05/monetary-policyendgame/
+
+vii
+
+Douglas A. Irwin. “The pandemic adds to the deglobalization trend.” April 2020. https://www.piie.com/blogs/realtimeeconomic-issues-watch/pandemic-adds-momentum-deglobalization-trend
+
+viii
+
+World Trade Organization. “Trade set to plunge as COVID-19 pandemic upends global economy.” April 2020. https://www.
+wto.org/english/news_e/pres20_e/pr855_e.htm
+
+ix
+
+Paul Tudor Jones, Lorenzo Giorgianni. “The Great Monetary Inflation.” May 2020 https://www.scribd.com/
+document/460382154/May-2020-BVI-Letter-Macro-Outlook
+
+x
+
+Michael Sheetz. “Warren Buffett is ‘completely wrong and outdated’ on bitcoin, Chamath Palihapitiya says.” February 2020.
+https://www.cnbc.com/2020/02/26/palihapitiya-warren-buffett-is-completely-wrong-outdated-on-bitcoin.html
+
+xi
+
+Coldwell Banker. “A Look at Wealth 2019: Millennial Millionaires.” October 2019. https://blog.coldwellbankerluxury.com/alook-at-wealth-millennial-millionaires/
+
+xii
+
+Michael Dimock. “Defining Generations: Where Millennials end and Generation Z Begins.” January 2019. https://www.
+pewresearch.org/fact-tank/2019/01/17/where-millennials-end-and-generation-z-begins/
+
+xiii
+
+Kate Rooney. “After the crisis, a new generation puts its trust in tech over traditional banks.” September 2018. https://www.
+cnbc.com/2018/09/14/a-new-generation-puts-its-trust-in-tech-over-traditional-banks.html
+
+xiv
+
+Edelman. “Millennials with Money.” October 2018. https://www.edelman.com/research/2018-millennials-with-money
+
+xv
+
+Bloomberg. “In the ETF Crosshairs: U.S-China Trade War, Bitcoin ETF Delay & Concealed ETF Structures.” May 2019. https://
+www.bloomberg.com/news/videos/2019-05-23/in-the-etf-crosshairs-u-s-china-trade-war-bitcoin-etf-delay-concealed-etfstructures-video
+
+xvi
+
+Edelman. “Millennials and the Future of Money.” November 2019. https://www.edelman.com/research/2019-millennials-withmoney
+
+19
+
+
